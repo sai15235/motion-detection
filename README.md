@@ -1,4 +1,4 @@
-Motion Detection using OpenCV
+# Motion Detection using OpenCV
 
 A Python-based motion detection system that identifies movement in real time using video frames.
 The project demonstrates how to apply computer vision techniques for detecting and tracking motion events through frame differencing, thresholding, and contour detection.
@@ -43,17 +43,17 @@ git clone https://github.com/sai15235/motion-detection.git
 
 Navigate to the project folder
 
- # cd motion-detection
+ ### cd motion-detection
 
 
 Install dependencies
 
-# pip install opencv-python numpy
+### pip install opencv-python numpy
 
 
 Run the script
 
-# python motion_detection.py
+### python motion_detection.py
 
  Future Enhancements
 
