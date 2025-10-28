@@ -43,17 +43,17 @@ git clone https://github.com/sai15235/motion-detection.git
 
 Navigate to the project folder
 
-cd motion-detection
+ # cd motion-detection
 
 
 Install dependencies
 
-pip install opencv-python numpy
+# pip install opencv-python numpy
 
 
 Run the script
 
-python motion_detection.py
+# python motion_detection.py
 
  Future Enhancements
 
